@@ -1,6 +1,15 @@
 # student_id_card
 
-A new Flutter project.
+A new Flutter project (Student Id Card)
+
+#Here is the final project Demo:
+https://github.com/ganeshsapkota/student_id_card/issues/1#issue-1528860361
+
+
+
+
+
+
 
 ## Getting Started
 
