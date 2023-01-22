@@ -2,9 +2,6 @@
 
 A new Flutter project (Student Id Card)
 
-#Here is the final project Demo:
-https://github.com/ganeshsapkota/student_id_card/issues/1#issue-1528860361
-
 ##Here is a whole code Description:
 
 The code provided is still a Dart program using the Flutter framework to build a mobile application. 
@@ -33,3 +30,6 @@ child is used when the parent widget can only have one child, while children is 
 RichText is a widget in Flutter that allows you to style different parts of text differently. You can use this widget to change the color, font size, font weight, and more of different parts of the text.
 
 TextSpan is a widget in Flutter that is used to style a specific part of a RichText widget. It is used as a child of RichText and can be nested to create a more complex layout. The TextSpan can take many properties to apply style to the text and it can have children spans to help you define different style for different part of the text.
+
+#Here is the final project Demo:
+https://github.com/ganeshsapkota/student_id_card/issues/1#issue-1528860361
